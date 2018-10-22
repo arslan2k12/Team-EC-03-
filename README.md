@@ -5,7 +5,7 @@ Team EC_03 :
 Tasks
 Build a tool to assess the modified OHI data against Module 2b (data format/structure) from the data checklists.
 
-Develop an overall pass/fail dataset rating based on assessment results to conclude if the dataset is reuseable or not.
+Develop an overall pass/fail dataset rating based on assessment results to conclude if the dataset is fit for processing or not.
 
 Produce an R markdown report containing at least:
 
